@@ -1,2 +1,8 @@
-# beachhacks-2021
-Contains my groups Beach Hacks 2021 project, TypeQuest, a timed typing game using Python 3 and the Tkinter library.
+# TypeQuest
+
+Game in which you race against a timer and type as many words as you can.
+
+### Dependencies to install: ###
+- python-Levenshtein
+- random_word
+- yaml
